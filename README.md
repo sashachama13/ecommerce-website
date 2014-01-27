@@ -1,2 +1,2 @@
-ecommerce-website
+inclass-ecommerce
 =================
