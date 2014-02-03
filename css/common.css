@@ -41,23 +41,23 @@ body {
 .box {
 	background-color: #ffffff;
 	padding-top: 3rem;
-	padding-bottom:2rem;
+	padding-bottom: 1rem;
 }
 
 .logo {
 	width: 5rem;
 	position: absolute;
-	top: 1.7rem;
-	left: .4rem;
+	top: 1.4rem;
+	left: 1rem;
 }
 
 .list{
-	padding-left: 5rem;
+		padding-left: 4.5rem;
 }
 
 nav li { 
 	list-style-type: none;
-	font-size: 1rem;
+	font-size: rem;
 	display: inline;
 	letter-spacing: .1rem;
 }
@@ -84,3 +84,31 @@ a:focus,
 a:active {
   color: #FDB200;
 }
+
+@media only screen and (min-width: 35em){
+	
+	.logo{
+		width: 8rem;
+		position: absolute;
+		top: 1.4rem;
+		left: 1rem;
+	}
+		
+	nav li{
+		font-size: 1rem;
+	}
+	
+	
+	.list{
+		padding-left: 8.5rem;
+		padding-top: .4rem;
+	}
+	
+	.box {
+		padding-bottom:4rem;
+	}
+	
+	#searchbox{
+		float: 	right;
+		padding-right: 10rem;
+	}
