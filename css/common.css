@@ -95,7 +95,7 @@ a:active {
 	}
 		
 	nav li{
-		font-size: 1rem;
+		font-size: 1.2rem;
 	}
 	
 	
@@ -109,6 +109,36 @@ a:active {
 	}
 	
 	#searchbox{
-		float: 	right;
-		padding-right: 10rem;
+		float: 	left;
+	
 	}
+	
+@media only screen and (min-width: 100em){
+	
+	.logo{
+		width: 10rem;
+		position: absolute;
+		top: 1.4rem;
+		left: 1rem;
+	}
+		
+	nav li{
+		font-size: 2rem;
+	}
+	
+	
+	.list{
+		padding-left: 12rem;
+		padding-top: 2.4rem;
+	}
+	
+	.box {
+		padding-bottom: 6rem;
+	}
+	
+	#searchbox{
+		float: 	left;
+		
+	}
+	
+}
