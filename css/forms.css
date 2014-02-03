@@ -76,14 +76,14 @@ small, .milli {
 
 h1, h2, h3, h4, h5, h6,
 .brand {
-  color: #000000;
+  color:#727272;
   font-family: "Roboto",serif;
 }
 
 a,
 a:link {
   transition: all 200ms linear;
-  color: #6E7385;
+  color: #273AAD;
   text-decoration: none;
 }
 
