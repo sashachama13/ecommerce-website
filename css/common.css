@@ -44,6 +44,12 @@ body {
 	padding-bottom: 1rem;
 }
 
+.box2 {
+	background-color: #ffffff;
+	padding-top: 3rem;
+	padding-bottom: 1rem;
+}
+
 .logo {
 	width: 5rem;
 	position: absolute;
@@ -57,7 +63,7 @@ body {
 
 nav li { 
 	list-style-type: none;
-	font-size: rem;
+	font-size: .8rem;
 	display: inline;
 	letter-spacing: .1rem;
 }
@@ -85,6 +91,10 @@ a:active {
   color: #FDB200;
 }
 
+.media-icons{
+	height: 1.5rem;	
+}
+
 @media only screen and (min-width: 35em){
 	
 	.logo{
@@ -104,13 +114,16 @@ a:active {
 		padding-top: .4rem;
 	}
 	
+	.list2{
+		padding-left: 2rem;
+		padding-top: .4rem;
+	}
 	.box {
 		padding-bottom:4rem;
 	}
 	
-	#searchbox{
-		float: 	left;
-	
+	.media-icons{
+	height: 3rem;	
 	}
 	
 @media only screen and (min-width: 100em){
@@ -135,10 +148,5 @@ a:active {
 	.box {
 		padding-bottom: 6rem;
 	}
-	
-	#searchbox{
-		float: 	left;
-		
-	}
-	
+
 }
