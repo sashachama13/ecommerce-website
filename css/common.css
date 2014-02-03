@@ -126,6 +126,11 @@ a:active {
 	height: 3rem;	
 	}
 	
+	.copywrite{
+		padding-top: .5rem;	
+	}
+
+	
 @media only screen and (min-width: 100em){
 	
 	.logo{
@@ -147,6 +152,14 @@ a:active {
 	
 	.box {
 		padding-bottom: 6rem;
+	}
+
+	.media-icons{
+	height: 6rem;	
+	}
+	
+	.copywrite{
+		padding-top: 1rem;	
 	}
 
 }
