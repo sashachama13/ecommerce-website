@@ -3,9 +3,23 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="144px" height="144px" viewBox="0 0 144 144" enable-background="new 0 0 144 144" xml:space="preserve">
-<rect fill="#273AAD" width="144" height="144"/>
+<path fill="#273AAD" d="M144,132c0,6.627-5.373,12-12,12H12c-6.627,0-12-5.373-12-12V12C0,5.373,5.373,0,12,0h120
+	c6.627,0,12,5.373,12,12V132z"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="71.9985" y1="4" x2="71.9985" y2="94.309">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.0959" style="stop-color:#F7F7FC"/>
+	<stop  offset="0.2486" style="stop-color:#DFE2F3"/>
+	<stop  offset="0.439" style="stop-color:#BAC0E5"/>
+	<stop  offset="0.6595" style="stop-color:#8690D1"/>
+	<stop  offset="0.9027" style="stop-color:#4454B8"/>
+	<stop  offset="1" style="stop-color:#273AAD"/>
+</linearGradient>
+<path opacity="0.5" fill="url(#SVGID_1_)" d="M4.998,94.309V12.21c0-4.534,5-8.21,11.167-8.21h111.667
+	c6.167,0,11.167,3.676,11.167,8.21v82.099C74.998,86.5,4.998,94.309,4.998,94.309z"/>
 <path fill="#FDB200" d="M63.808,21.814h23.408v69.391c0,10.187-3.346,18.268-10.037,24.242c-6.692,5.974-15.062,8.96-25.11,8.96
 	c-10.975,0-19.647-2.639-26.013-7.918c-6.367-5.279-9.436-13.082-9.203-23.408l0.139-0.417h22.922c0,4.909,1.135,8.416,3.404,10.523
-	c2.268,2.107,5.185,3.16,8.752,3.16c3.195,0,5.949-1.32,8.266-3.959c2.315-2.639,3.473-6.367,3.473-11.183V21.814z"/>
-<path fill="#FFFFFF" d="M119.209,51.099H99.134v12.762h23.66v9.141H87.217V21.814h35.648v9.141h-23.73v11.004h20.074V51.099z"/>
+	c2.268,2.107,5.185,3.16,8.752,3.16c3.195,0,5.949-1.32,8.266-3.959c2.315-2.639,3.473-6.367,3.473-11.183L63.808,21.814
+	L63.808,21.814z"/>
+<path fill="#FFFFFF" d="M119.209,51.099H99.134v12.762h23.66v9.141H87.217V21.814h35.648v9.141h-23.73v11.004h20.074
+	C119.209,41.959,119.209,51.099,119.209,51.099z"/>
 </svg>

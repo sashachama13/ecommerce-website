@@ -17,6 +17,10 @@ html {
 	text-size-adjust: 100%;
 }
 
+#search{
+	width: 10rem;
+}
+
 .ir {
 	overflow: hidden;
 
@@ -48,6 +52,7 @@ body {
 	background-color: #ffffff;
 	padding-top: 3rem;
 	padding-bottom: 1rem;
+	margin-top: 45rem;
 }
 
 .logo {
@@ -122,6 +127,10 @@ a:active {
 		padding-bottom:4rem;
 	}
 	
+	.box2 {
+		margin-top: 43rem;
+		}
+	
 	.media-icons{
 	height: 3rem;	
 	}
@@ -153,6 +162,12 @@ a:active {
 	.box {
 		padding-bottom: 6rem;
 	}
+	
+	.box2 {
+		margin-top: 40rem;
+		padding-top: 3rem;
+		padding-bottom: 1rem;
+		
 
 	.media-icons{
 	height: 6rem;	
