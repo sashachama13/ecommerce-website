@@ -97,6 +97,10 @@ a:active {
 	height: 1.5rem;	
 }
 
+.copywrite{
+		font-size: .7rem;	
+}
+
 @media only screen and (min-width: 35em){
 	
 	.logo{
@@ -126,21 +130,20 @@ a:active {
 	
 	.box2 {
 		margin-top: 43rem;
-		}
+	}
 	
 	.media-icons{
-	height: 3rem;	
+	height: 2rem;	
 	}
 	
 	.copywrite{
-		padding-top: .5rem;	
+		font-size: 1rem;	
 	}
 	
 	#search{
 	width: 19.5rem;
 	height: 1.5rem;
 	}
-
 
 	
 @media only screen and (min-width: 100em){
@@ -167,21 +170,15 @@ a:active {
 	
 	.box2 {
 		margin-top: 40rem;
-		padding-top: 3rem;
+		padding-top: 5rem;
 		padding-bottom: 1rem;
-		
-
+		}
+	
 	.media-icons{
-	height: 6rem;	
+		height: 2.5rem;	
 	}
 	
 	.copywrite{
-		padding-top: 1rem;	
+		font-size: 1.2rem;	
 	}
-
-	#search{
-	width: 19.5rem;
-	height: 1.5rem;
-	}
-
 }
