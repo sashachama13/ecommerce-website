@@ -18,7 +18,8 @@ html {
 }
 
 #search{
-	width: 10rem;
+	width: 10.4rem;
+	height: 1.5rem;
 }
 
 .ir {
@@ -85,10 +86,6 @@ a:link {
   text-decoration: none;
 }
 
-a:visited {
-  color: #68446e;
-  border-bottom-color: rgba(104,68,110,0.5);
-}
 
 a:hover,
 a:focus,
@@ -110,7 +107,7 @@ a:active {
 	}
 		
 	nav li{
-		font-size: 1.2rem;
+		font-size: 1.5rem;
 	}
 	
 	
@@ -124,7 +121,7 @@ a:active {
 		padding-top: .4rem;
 	}
 	.box {
-		padding-bottom:4rem;
+		padding-top: 4.9rem;
 	}
 	
 	.box2 {
@@ -138,6 +135,12 @@ a:active {
 	.copywrite{
 		padding-top: .5rem;	
 	}
+	
+	#search{
+	width: 19.5rem;
+	height: 1.5rem;
+	}
+
 
 	
 @media only screen and (min-width: 100em){
@@ -150,12 +153,11 @@ a:active {
 	}
 		
 	nav li{
-		font-size: 5rem;
+		font-size: 2rem;
 	}
 	
-	
 	.list{
-		padding-left: 12rem;
+		padding-left: 10.5rem;
 		padding-top: 2.4rem;
 	}
 	
@@ -175,6 +177,11 @@ a:active {
 	
 	.copywrite{
 		padding-top: 1rem;	
+	}
+
+	#search{
+	width: 19.5rem;
+	height: 1.5rem;
 	}
 
 }
