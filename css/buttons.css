@@ -5,7 +5,7 @@
 .btn:visited{
 	display:inline-block;
 	padding:0.75em 1em;
-	background-color: #6E7385;
+	background-color: #273AAD;
 	color: #fff;
 	font-weight: bold;
 	border: 0;
@@ -14,7 +14,7 @@
 .btn-alt,
 .btn-alt:link,
 .btn-alt:visited{ 
-	background-color: #6E7385;
+	background-color: #273AAD;
 	border:2px solid;
 	border-radius:25px;
 }
