@@ -18,30 +18,34 @@
 	<link href="{{site.baseurl}}/css/header.css" rel="stylesheet">
 	<link href="{{site.baseurl}}/css/footer.css" rel="stylesheet">
 	<link href="{{site.baseurl}}/css/buckets.css" rel="stylesheet">
+	<link href="{{site.baseurl}}/css/promos.css" rel="stylesheet">
 	
 </head>
 
 <body>
 <header class="box">
+<div class="header-left">
 	<a href="#.html"><img src="{{site.baseurl}}/images/logo.svg" alt="logo" class="logo"></a>
 	<nav>
 		<div class="list">
 		
-		<ul>
-			<li><a href="{{site.baseurl}}/"> Home</a></li>
-			<li><a href="{{site.baseurl}}/about/"><strong>ABOUT/ </strong></a></li>
-			<li><a href="#"><strong>PHOTOS/ </strong></a></li>
-			<li><a href="#"><strong>CONTACT/ </strong></a></li>
-			<li><form id="searchbox" action="">
-    				<input id="search" type="text" placeholder="Type here">
-   					<input id="submit" type="submit" value="Search">
-					</form>
-			</li>
+		<ul class=list-group>
+			<li class="list-group-item list-group-item-inline"><a href="{{site.baseurl}}/"> <strong>HOME/</strong></a></li>
+			<li class="list-group-item list-group-item-inline"><a href="{{site.baseurl}}/about/"><strong>ABOUT/ </strong></a></li>
+			<li class="list-group-item list-group-item-inline"><a href="#"><strong>PHOTOS/ </strong></a></li>
+			<li class="list-group-item list-group-item-inline"><a href="#"><strong>CONTACT/ </strong></a></li>
 		</ul>
 		
 			
 		</div>
 	</nav>
+</div>
+	<div class="search">
+	<form id="searchbox" action="">
+    				<input id="search" type="text" placeholder="Type here">
+   					<input id="submit" type="submit" value="Search">
+					</form>
+	</div>
 	
 	</header>
 	{{content}}
@@ -51,11 +55,14 @@
 	<nav>	
 		<div class="list2">
 		
-			<ul>
-				<li><a href="#.html"><img src="{{site.baseurl}}/images/facebook.svg" alt="facebook" class="media-icons"></a></li>
-				<li><a href="#.html"><img src="{{site.baseurl}}/images/twitter.svg" alt="twitter" class="media-icons"></a></li>
-				<li><a href="#.html"><img src="{{site.baseurl}}/images/in.svg" alt="in" class="media-icons"></a></li>
-				<li><div class="copywrite"> © James Erdeg Photography 2014</div></li>
+			<ul class=list-group>
+				<li class="list-group-item list-group-item-inline"><a href="#.html"><img src="{{site.baseurl}}/images/facebook.svg" alt="facebook" class=						                "media-icons"></a></li>
+				
+				<li class="list-group-item list-group-item-inline"><a href="#.html"><img src="{{site.baseurl}}/images/twitter.svg" alt="twitter" class=		               "media-icons"></a></li>
+				
+				<li class="list-group-item list-group-item-inline"><a href="#.html"><img src="{{site.baseurl}}/images/in.svg" alt="in" class="media-icons"></a>	               </li>
+				
+				<li class="list-group-item list-group-item-inline"><div class="copywrite"> © James Erdeg Photography 2014</div></li>
 			</ul>
 		</div>
 	</nav>
