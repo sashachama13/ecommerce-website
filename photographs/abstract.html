@@ -1,0 +1,16 @@
+---
+layout: default
+title: Photographs
+---
+
+<ul>
+	{% for photo in site.pages %}
+		{% if photo.type == 'abstract' %}
+			<li>
+				<img src="{{site.baseurl}}/images/{{photo.image}}" alt="">
+				{{photo.title}}
+			</li>
+		{% endif %}
+	{% endfor %}
+</ul>
+
