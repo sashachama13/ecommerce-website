@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Waterfall
+title: Umbrella
 category: photograph
-type: nature
-image: nature/waterfall.jpg
+type: abstract
+image: abstract/umbrella.jpg
 price: $150
 ---
 

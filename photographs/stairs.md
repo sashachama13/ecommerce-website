@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Waterfall
+title: Stairs
 category: photograph
-type: nature
-image: nature/waterfall.jpg
+type: abstract
+image: abstract/stairs.jpg
 price: $150
 ---
 

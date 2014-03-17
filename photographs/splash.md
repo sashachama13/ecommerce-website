@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Waterfall
+title: Splash
 category: photograph
-type: nature
-image: nature/waterfall.jpg
+type: abstract
+image: nature/splash.jpg
 price: $150
 ---
 

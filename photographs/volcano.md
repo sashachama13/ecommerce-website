@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Waterfall
+title: Volcano
 category: photograph
 type: nature
-image: nature/waterfall.jpg
+image: nature/volcano.jpg
 price: $150
 ---
 

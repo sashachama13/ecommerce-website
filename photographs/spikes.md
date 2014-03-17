@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Waterfall
+title: Spikes
 category: photograph
-type: nature
-image: nature/waterfall.jpg
+type: abstract
+image: nature/spikes.jpg
 price: $150
 ---
 

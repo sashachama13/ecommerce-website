@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Waterfall
+title: Sunrise
 category: photograph
 type: nature
-image: nature/waterfall.jpg
+image: nature/sunrise.jpg
 price: $150
 ---
 

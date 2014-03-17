@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Waterfall
+title: Lake
 category: photograph
 type: nature
-image: nature/waterfall.jpg
+image: nature/lake.jpg
 price: $150
 ---
 

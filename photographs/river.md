@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Waterfall
+title: River
 category: photograph
 type: nature
-image: nature/waterfall.jpg
+image: nature/river.jpg
 price: $150
 ---
 
