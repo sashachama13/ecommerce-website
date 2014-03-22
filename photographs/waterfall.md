@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: photos
 title: Waterfall
 category: photograph
 type: nature

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: photos
 title: Umbrella
 category: photograph
 type: abstract

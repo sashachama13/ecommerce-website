@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: photos
 title: Sunrise
 category: photograph
 type: nature

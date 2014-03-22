@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: photos
 title: Stairs
 category: photograph
 type: abstract

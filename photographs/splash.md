@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: photos
 title: Splash
 category: photograph
 type: abstract
-image: nature/splash.jpg
+image: abstract/splash.jpg
 price: $150
 ---
 

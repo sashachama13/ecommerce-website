@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: photos
 title: Volcano
 category: photograph
 type: nature

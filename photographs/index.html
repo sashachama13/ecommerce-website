@@ -3,6 +3,8 @@ layout: default
 title: Photographs
 ---
 
+{% include photo-nav.html %}
+
 <ul>
 	{% for photo in site.pages %}
 		{% if photo.category == 'photograph' %}

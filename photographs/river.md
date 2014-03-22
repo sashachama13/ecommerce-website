@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: photos
 title: River
 category: photograph
 type: nature

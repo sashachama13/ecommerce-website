@@ -2,13 +2,15 @@
 layout: default
 title: Photographs
 ---
+{% include photo-nav.html %}
 
 <ul>
 	{% for photo in site.pages %}
 		{% if photo.type == 'nature' %}
 			<li>
+			<a href="{{site.baseurl}}{{photo.url}}">
 				<img src="{{site.baseurl}}/images/{{photo.image}}" alt="">
-				{{photo.title}}
+				{{photo.title}}</a>
 			</li>
 		{% endif %}
 	{% endfor %}

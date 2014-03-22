@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: photos
 title: Lake
 category: photograph
 type: nature

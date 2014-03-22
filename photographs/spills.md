@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: photos
 title: Spills
 category: photograph
 type: abstract

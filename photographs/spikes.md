@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: photos
 title: Spikes
 category: photograph
 type: abstract
-image: nature/spikes.jpg
+image: abstract/spikes.jpg
 price: $150
 ---
 
