@@ -1,9 +1,22 @@
 ---
 layout: default
 ---
-<img src="{{site.baseurl}}/images/{{page.image}}" alt="">
-<h1>{{page.title}}</h1>
 
-<strong>{{page.price}}</strong>
+<ul>
+
+	<li><img src="{{site.baseurl}}/images/{{page.image}}" alt=""></li>
+
+	<li><h1>{{page.title}}</h1>
+	</li>
+	
+	<li>	
+	<strong>{{page.price}}</strong>
+	</li>
+
+	<li>
+	<a class="btn micro" href="../../cart/"> Buy Now </a>
+	</li>
+	
+</ul>
 
 {{content}}
