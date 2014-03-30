@@ -8,13 +8,12 @@ title: Photographs
 <ul>
 	{% for photo in site.pages %}
 		{% if photo.category == 'photograph' %}
+		
 			<li>
-				<img src="{{site.baseurl}}/images/{{photo.image}}" alt="" height=50%  width=50%>
-				
-			</li>
-			
-			<li>
-			{{photo.title}}
+				<a href="{{site.baseurl}}{{photo.url}}">
+				<img src="{{site.baseurl}}/images/{{photo.image}}" alt="" height=50% width=50%>
+				{{photo.title}}
+				</a>
 			</li>
 			
 			<li>

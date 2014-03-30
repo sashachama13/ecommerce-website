@@ -7,10 +7,16 @@ title: Photographs
 <ul>
 	{% for photo in site.pages %}
 		{% if photo.type == 'nature' %}
+		
 			<li>
-			<a href="{{site.baseurl}}{{photo.url}}">
-				<img src="{{site.baseurl}}/images/{{photo.image}}" alt="">
-				{{photo.title}}</a>
+				<a href="{{site.baseurl}}{{photo.url}}">
+				<img src="{{site.baseurl}}/images/{{photo.image}}" alt="" height=50% width=50%>
+				{{photo.title}}
+				</a>
+			</li>
+			
+			<li>
+			<a class="btn micro" href="../../cart/">Buy Now </a>
 			</li>
 		{% endif %}
 	{% endfor %}
