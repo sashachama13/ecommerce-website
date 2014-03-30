@@ -9,10 +9,18 @@ title: Photographs
 	{% for photo in site.pages %}
 		{% if photo.category == 'photograph' %}
 			<li>
-				<img src="{{site.baseurl}}/images/{{photo.image}}" alt="" height=250 width=250>
-				<p><a class="btn micro" href="../thank-you/"> Checkout </a></p>
-				{{photo.title}}
+				<img src="{{site.baseurl}}/images/{{photo.image}}" alt="" height=50%  width=50%>
+				
 			</li>
+			
+			<li>
+			{{photo.title}}
+			</li>
+			
+			<li>
+			<a class="btn micro" href="../cart/"> Buy Now </a>
+			</li>
+			
 		{% endif %}
 	{% endfor %}
 </ul>
