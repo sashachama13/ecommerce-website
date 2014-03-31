@@ -18,9 +18,9 @@ User testing was conducted by {Alexandra Chama} on {March 24th 2014} between the
 
 ### {Grant Jeffery}
 
-- {She clicked on the link as expecte:yes}
-- {She had troubles completing a specific task:no}
-- {She asked these questions: where is your content, the about page needs work}
+- {He clicked on the link as expected:yes}
+- {He had troubles completing a specific task:no}
+- {He asked these questions: where is your content, the about page needs work}
 - {Link cart page, add content}
 - etc.
 

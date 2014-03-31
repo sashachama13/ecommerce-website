@@ -97,6 +97,16 @@ a:focus,
 a:active {
   color: #FDB200;
 }
+a:hover,
+a:active{ 
+/* We can remove the outline from mouse-based actions only */
+	outline: none;
+}
+
+a:focus {
+	/*The outline Must be on the focus stare for keyboard access*/
+	outline: 2px solid #000;
+}
 
 sup,
 sub {

@@ -1,6 +1,6 @@
 
 <!doctype html>
-<html>
+<html lang="en-ca">
 <head>
 <meta charset="UTF-8">
 <title>{{page.title}} · James Erdeg Photography</title>
@@ -15,19 +15,17 @@
 	<link href="{{site.baseurl}}/css/media-object.css" rel="stylesheet">
 	<link href="{{site.baseurl}}/css/buttons.css" rel="stylesheet">
 	<link href="{{site.baseurl}}/css/grid.css" rel="stylesheet">
-	<link href="{{site.baseurl}}/css/header.css" rel="stylesheet">
-	<link href="{{site.baseurl}}/css/footer.css" rel="stylesheet">
 	<link href="{{site.baseurl}}/css/buckets.css" rel="stylesheet">
 	<link href="{{site.baseurl}}/css/promos.css" rel="stylesheet">
 	
 </head>
 
 <body>
-<header class="box">
+<header class="box" role="banner">
 <div class="header-left">
-	<a href="#.html"><img src="{{site.baseurl}}/images/logo.svg" alt="logo" class="logo"></a>
+	<a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/images/logo.svg" alt="James Erdeg logo" class="logo"></a>
 	<nav>
-		<div class="list">
+		<div class="list" role="navigation">
 		
 		<ul class=list-group>
 			<li class="list-group-item list-group-item-inline"><a href="{{site.baseurl}}/"> <strong>HOME/</strong></a></li>
@@ -41,8 +39,9 @@
 	</nav>
 </div>
 	<div class="search">
-		<form id="searchbox" action="{{site.baseurl}}/search/">
-    		<input id="search" type="text" placeholder="Type here">
+		<form id="searchbox" action="{{site.baseurl}}/search/" role="search">
+    		<label for ="search"> Search </label>
+			<input id="search" type="text" placeholder="Type here">
     		<input id="submit" type="submit" value="Search">
 		</form>
 		
@@ -52,24 +51,23 @@
 	{{content}}
 	
 		
-<footer class="box2">
+<footer class="box2" >
 	<nav>	
 		<div class="list2">
 		
 			<ul class=list-group>
-				<li class="list-group-item list-group-item-inline"><a href="#.html"><img src="{{site.baseurl}}/images/facebook.svg" alt="facebook" class=						                "media-icons"></a></li>
+				<li class="list-group-item list-group-item-inline"><a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/images/facebook.svg" alt="facebook" class=						                "media-icons"></a></li>
 				
-				<li class="list-group-item list-group-item-inline"><a href="#.html"><img src="{{site.baseurl}}/images/twitter.svg" alt="twitter" class=		               "media-icons"></a></li>
+				<li class="list-group-item list-group-item-inline"><a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/images/twitter.svg" alt="twitter" class=		               "media-icons"></a></li>
 				
-				<li class="list-group-item list-group-item-inline"><a href="#.html"><img src="{{site.baseurl}}/images/in.svg" alt="in" class="media-icons"></a>	               </li>
+				<li class="list-group-item list-group-item-inline"><a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/images/in.svg" alt="in" class="media-icons"></a>	               </li>
 				
-				<li class="list-group-item list-group-item-inline"><div class="copywrite"> © James Erdeg Photography 2014</div></li>
+				<li class="list-group-item list-group-item-inline"><div class="copywrite" role="contentinfo"> © James Erdeg Photography 2014</div></li>
 			</ul>
 		</div>
 	</nav>
 	
 </footer>
 
-<body>
 </body>
 </html>
