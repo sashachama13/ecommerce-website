@@ -31,7 +31,6 @@ User testing was conducted by {Alexandra Chama} on {March 24th 2014} between the
 - {She asked these questions: no questions}
 - {Need to add buy now buttons to photos to take you to checkout…}
 - etc.
-
 ### {Emma Mcinall}
 
 - {She clicked on the link as expected:yes}
@@ -44,17 +43,5 @@ User testing was conducted by {Alexandra Chama} on {March 24th 2014} between the
 
 ## Trends
 
-### Critical, Needs Fixing, Unable to Complete
-
-- {All participants had this problem…}
-- etc.
-
-### Serious, Causes Frustration, May Hinder Completion
-
-- {Two of the participants succeeded where one of them failed…}
-- etc.
-
-### Minor, Annoying, Won’t Hinder Completion
-
-- {Participants pointed out this inconsistency…}
-- etc.
+Users found there the website needed more content. They also felt that I needed to link all my images to the checkout, 
+and add buy now buttons for the photographs.
