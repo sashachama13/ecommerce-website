@@ -38,7 +38,7 @@ header {
 }
 
 body {
-	margin: 0;
+	margin: 1rem;
 	font-family: 'Roboto', sans-serif;
 	font-size: .8rem;
 	color: #666;
@@ -48,7 +48,6 @@ body {
 
 .box {
 	background-color: #ffffff;
-	padding-top: 3rem;
 	padding-bottom: 1rem;
 }
 
@@ -61,9 +60,10 @@ body {
 
 .logo {
 	width: 3.5rem;
-	position: absolute;
+	/*position: absolute;
 	top: 1.4rem;
-	left: 1rem;
+	left: 1rem;*/
+	
 }
 
 .list{
@@ -72,7 +72,6 @@ body {
 
 nav{
 	padding-left: .5rem;
-	margin-top: 1rem;
 	
 	}
 
@@ -115,9 +114,9 @@ a:active {
 	
 	.logo{
 		width: 5rem;
-		position: absolute;
+		/*position: absolute;
 		top: 1.4rem;
-		left: 1rem;
+		left: 1rem;*/
 	}
 		
 	nav li{
@@ -133,9 +132,6 @@ a:active {
 	.list2{
 		padding-left: 2rem;
 		padding-top: .4rem;
-	}
-	.box {
-		padding-top: 4.9rem;
 	}
 	
 	.box2 {
@@ -162,11 +158,12 @@ a:active {
 	
 	.header-left {
 		float: left;
-		width: 50%
+		width: 5rem;
 		}
 		
-	.search{
-		float: right;
+		
+	.header-right{
+		float: left;
 		width: 50%;
 		}
 	
@@ -177,9 +174,9 @@ a:active {
 	
 	.logo{
 		width: 10rem;
-		position: absolute;
+	/*position: absolute;
 		top: 1.4rem;
-		left: 1rem;
+		left: 1rem;*/
 	}
 		
 	nav li{

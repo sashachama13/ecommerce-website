@@ -171,7 +171,6 @@ ul li {
 }
 
 ul li:before {
-  content: "+";
   position: absolute;
   left: -1.5em;
   color: #FDB200;
