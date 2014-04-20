@@ -13,7 +13,6 @@
 
 html {
   background-color: #ffffff;
-
   color: #444;
   font: normal 100%/1.5 roboto; /* 16px/24px */
 }
@@ -130,7 +129,6 @@ abbr {
 
 ins {
   border-bottom: 0.1em dotted rgba(0,0,0,0.5);
-
   color: #000;
   text-decoration: none;
 }
@@ -191,7 +189,6 @@ blockquote footer {
 
 table {
   width: 100%;
-
   border-collapse: collapse;
   table-layout: fixed;
 }
