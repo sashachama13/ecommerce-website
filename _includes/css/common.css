@@ -44,7 +44,6 @@ header {
 }
 
 body {
-	margin: 1rem;
 	font-family: 'Roboto', sans-serif;
 	font-size: .8rem;
 	color: #666;
@@ -58,9 +57,6 @@ body {
 
 .box2 {
 	background-color: #ffffff;
-	padding-top: 3rem;
-	padding-bottom: 1rem;
-	margin-top: 1rem;
 }
 
 .logo {
@@ -132,7 +128,6 @@ a:active {
 		font-size: 1rem;
 	}
 	
-	
 	.list{
 		padding-left: 5.2rem;
 		padding-top: 0.4rem;
@@ -140,7 +135,6 @@ a:active {
 	}
 	
 	.list2{
-		padding-left: 2rem;
 		padding-top: .4rem;
 	}
 	
