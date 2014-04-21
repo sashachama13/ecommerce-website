@@ -7,4 +7,4 @@ image: nature/waterfall.jpg
 price: $150
 ---
 
-Small **description** about the image!
+Thailand nature trail.

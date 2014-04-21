@@ -7,4 +7,4 @@ image: abstract/spikes.jpg
 price: $150
 ---
 
-Small **description** about the image!
+Close up of a wooden brush.

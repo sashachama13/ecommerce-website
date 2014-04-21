@@ -7,4 +7,4 @@ image: nature/river.jpg
 price: $150
 ---
 
-Small **description** about the image!
+Spring at Green's Creek 2010. 

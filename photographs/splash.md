@@ -7,4 +7,4 @@ image: abstract/splash.jpg
 price: $150
 ---
 
-Small **description** about the image!
+Slow motion ball drop.

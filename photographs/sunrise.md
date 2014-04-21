@@ -7,4 +7,4 @@ image: nature/sunrise.jpg
 price: $150
 ---
 
-Small **description** about the image!
+Blue meadow sunrise.

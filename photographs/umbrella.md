@@ -7,4 +7,4 @@ image: abstract/umbrella.jpg
 price: $150
 ---
 
-Small **description** about the image!
+Light shinging through umbrella.

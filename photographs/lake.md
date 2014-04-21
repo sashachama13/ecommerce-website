@@ -7,4 +7,4 @@ image: nature/lake.jpg
 price: $150
 ---
 
-Small **description** about the image!
+Summer at Meech Lake 2013.

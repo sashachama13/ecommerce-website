@@ -7,4 +7,4 @@ image: abstract/stairs.jpg
 price: $150
 ---
 
-Small **description** about the image!
+Downward angle of spiral staircase.

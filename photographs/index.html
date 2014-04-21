@@ -8,11 +8,11 @@ title: Photographs
 <ul class="list-group">
 	{% for photo in site.pages %}
 		{% if photo.category == 'photograph' %}
-		
+		<a href="{{site.baseurl}}{{photo.url}}"><h4>{{photo.title}}</h4></a>
 			<li class="list-group-item">
 				<a href="{{site.baseurl}}{{photo.url}}">
 				<img src="{{site.baseurl}}/images/{{photo.image}}" alt="" height=50% width=50%>
-				{{photo.title}}
+				
 				</a>
 				<div>
 					<a class="btn micro" href="../cart/"> Buy Now </a>

@@ -7,4 +7,4 @@ image: abstract/spills.jpg
 price: $150
 ---
 
-Small **description** about the image!
+Distored winter painting.
